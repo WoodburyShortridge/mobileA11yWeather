@@ -14,4 +14,4 @@ see `/earcons`
 # video with TalkBack interaction & android install 
 ### https://play.google.com/store/apps/details?id=com.sonification.accessibleweather
 
-![android capture](https://woodburyshortridge.github.io/registerProj/earcons/capture.PNG)
+![android capture](https://woodburyshortridge.github.io/registerProj/earcons/capture.png)
